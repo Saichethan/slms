@@ -8,6 +8,7 @@
 * Student profile
 * Approval notification
 * Leave's dashboard
+* Password Recovery
 
 ## Technical stack
 * PHP
@@ -21,5 +22,5 @@
 * @kanishk0003
 * @hmnthvarma
 
-implemented during 5th semester as part of software engineering project at IIIT Bhagalpur.
+Implemented during 5th semester(2019) as part of software engineering project at IIIT Bhagalpur.
 
